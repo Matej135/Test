@@ -12,7 +12,6 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("test");
             Console.WriteLine("test2");
-            Console.WriteLine("test4");
         }
     }
 }
